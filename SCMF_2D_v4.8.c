@@ -25,7 +25,7 @@
 #define NUM_STR 8
 #define MAX_DU 700.0 // Threshold for Metropolis test to avoid exp overflow
 #define MAX_CAND 64 // Maximum number of candidates for swap move 
-#define VERSION "4.9" 
+#define VERSION "4.10" 
 #define DIMENSION 2
 /*
 ================================================================================
